@@ -1,0 +1,68 @@
+.home {
+    background-color: blanchedalmond;
+    color: black;
+    position: absolute;
+    top: 275px;
+    left: 250px;
+    right: 450px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Original Surfer', cursive;
+}
+.work {
+    background-color: blanchedalmond;
+    color: black;
+    position: absolute;
+    top: 275px;
+    left: 350px;
+    right: 450px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Original Surfer', cursive;
+
+}
+.plan {
+    background-color: blanchedalmond;
+    color: black;
+    position: absolute;
+    top: 275px;
+    left: 450px;
+    right: 300px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Original Surfer', cursive;
+    
+}
+.plan ul{
+    list-style-type: none;
+    margin: 0;
+  padding: 0;
+}
+.contact {
+    background-color: blanchedalmond;
+    color: black;
+    position: absolute;
+    top: 275px;
+    left: 550px;
+    right: 250px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Original Surfer', cursive;
+
+}
+.login {
+    background-color: blanchedalmond;
+    color: black;
+    position: absolute;
+    top: 275px;
+    left: 850px;
+    right: 100px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Original Surfer', cursive;
+}
