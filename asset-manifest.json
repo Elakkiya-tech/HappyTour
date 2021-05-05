@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HappyTour/static/css/main.10492d2e.chunk.css",
+    "main.js": "/HappyTour/static/js/main.15f182b4.chunk.js",
+    "main.js.map": "/HappyTour/static/js/main.15f182b4.chunk.js.map",
+    "runtime-main.js": "/HappyTour/static/js/runtime-main.43b57376.js",
+    "runtime-main.js.map": "/HappyTour/static/js/runtime-main.43b57376.js.map",
+    "static/js/2.5013fee6.chunk.js": "/HappyTour/static/js/2.5013fee6.chunk.js",
+    "static/js/2.5013fee6.chunk.js.map": "/HappyTour/static/js/2.5013fee6.chunk.js.map",
+    "static/js/3.4511f576.chunk.js": "/HappyTour/static/js/3.4511f576.chunk.js",
+    "static/js/3.4511f576.chunk.js.map": "/HappyTour/static/js/3.4511f576.chunk.js.map",
+    "index.html": "/HappyTour/index.html",
+    "static/css/main.10492d2e.chunk.css.map": "/HappyTour/static/css/main.10492d2e.chunk.css.map",
+    "static/js/2.5013fee6.chunk.js.LICENSE.txt": "/HappyTour/static/js/2.5013fee6.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/HappyTour/static/media/bg.4b50c452.png",
+    "static/media/logo.c460c860.png": "/HappyTour/static/media/logo.c460c860.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43b57376.js",
+    "static/js/2.5013fee6.chunk.js",
+    "static/css/main.10492d2e.chunk.css",
+    "static/js/main.15f182b4.chunk.js"
+  ]
+}
